@@ -2,6 +2,8 @@ Autoamted the Orange HRM portal for the following test scenario using Page objec
 
  **   Test Scenario**
 
+ Test Link : https://www.orangehrm.com/
+
  1. Automate Login Page
  2. Go to PIM module
  3. Add new employee entry
